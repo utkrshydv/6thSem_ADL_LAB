@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 #Write a program to print all factors of a number.
 
 n = int(input("Enter a number: "))

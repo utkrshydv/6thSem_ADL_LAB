@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 #Find GCD of two numbers.
 def findGCD(a, b):
   if b == 0:

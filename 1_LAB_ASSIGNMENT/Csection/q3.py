@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 #Check if a string is palindrome
 
 def isPalindrome(s: str) -> bool:

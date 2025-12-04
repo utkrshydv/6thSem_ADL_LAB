@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 #Print all prime numbers between 1 and 100.
 def checkPrime(num):
   if num < 2:

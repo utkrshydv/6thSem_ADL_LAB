@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 #find sum of squares of first N natural numbers
 
 n = int(input("Enter a number: "))

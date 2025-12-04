@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 #Check if a number is a perfect number.
 n = int(input("Enter a number: "))
 sum = 0

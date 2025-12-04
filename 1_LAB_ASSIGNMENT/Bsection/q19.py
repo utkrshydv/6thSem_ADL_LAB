@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 # Print the number of digits that are divisible by 3 in a given number.
 
 n = int(input("Enter a number: "))

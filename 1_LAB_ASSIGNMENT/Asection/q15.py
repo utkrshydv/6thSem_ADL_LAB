@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 #Write a program to reverse a number (e.g., 123 → 321).
 
 num = 23053172

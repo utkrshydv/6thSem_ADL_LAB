@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 #. Display sum of odd and even digits separately in a number.
 
 n = int(input("Enter a number: "))

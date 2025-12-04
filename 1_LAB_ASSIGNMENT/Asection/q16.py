@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 #Write a program to compute the remainder without using % operator.
 a = int(input("Enter dividend: "))
 b = int(input("Enter divisor: "))

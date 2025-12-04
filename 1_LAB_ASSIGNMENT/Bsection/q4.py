@@ -1,3 +1,4 @@
+#name: "Utkarsh Yadav" roll: "23053172"
 #Calcualte factorial of a number
 
 n = int(input("Enter a number: "))
