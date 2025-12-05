@@ -1,3 +1,5 @@
 venv/
 .venv/
 env
+*.docx
+.ipynb_checkpoints/
